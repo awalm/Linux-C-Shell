@@ -25,3 +25,8 @@ This is a simple C shell for use with Linux. This is written for my Operating Sy
 "!!" - Repeat last command
 
 "exit"
+
+# Compiling and Running
+
+In order to compile the program, use the command "make".
+To run the program, use the command "./shell"
