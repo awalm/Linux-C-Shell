@@ -4,24 +4,24 @@ This is a simple C shell for use with Linux. This is written for my Operating Sy
 
 # Supported Commands
 
-cd - Change directory
+"cd" - Change directory
 
-pwd - Print current working directory
+"pwd" - Print current working directory
 
-mkdir - Make directory
+"mkdir" - Make directory
 
-rmdir - Remove directory
+"rmdir" - Remove directory
 
-ls - List contents
+"ls" - List contents of current working directory
 
-& - Run command in background
+"&" - Run command in background
 
-> - Output redirection
+">" - Output redirection
 
-< - Input redirection
+"<" - Input redirection
 
-| - Piping (Up to 1 level)
+"|" - Piping (Up to 1 level)
 
-!! - Repeat last command
+"!!" - Repeat last command
 
-exit
+"exit"
